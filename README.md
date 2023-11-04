@@ -1,4 +1,4 @@
-# Patron builder
+# Patron Builder :rocket:
 
 Builder es un patrón de diseño creacional con ámbitos de objeto. Nos ayuda a crear objetos complejos de una forma sencilla usando un procedimiento de "paso por paso". Esto facilita el trabajo enormemente cuando tenemos objetos con muchos atributos, pero no necesitamos establecer de inicio todos sus valores, o no siempre establecemos los mismos. De esta forma nos guía en la construcción de estos obejtos. También ayuda en el ensamblado de objetos complejos que están formados por otros objetos.
 
@@ -30,9 +30,10 @@ Con esta estrategia también podemos usar la variación en la que el constructor
 
 ![PatronBuilder](https://github.com/Jhon599/Patr-n-de-dise-o-Builder/assets/143898470/31d20300-3b3e-4312-8d07-679e05aced31)
 
-## Codigo ejemplo
-
-![image](https://github.com/Jhon599/Patr-n-de-dise-o-Builder/assets/143898470/adee48f8-090b-41b7-b117-0ca2548fe1b0)
+## Tecnologia
+- JAVA Maven
+- Editor DIA
+- IntelliJ IDEA
 
 
 
